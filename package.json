@@ -1,0 +1,15 @@
+{
+  "name": "nodejsdemocontrolled",
+  "version": "1.0.0",
+  "description": "Hướng dẫn điều khiển từ xa bằng nodejs socket.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "serialport": "^6.0.4",
+    "socket.io": "latest"
+  }
+}
